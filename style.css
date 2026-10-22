@@ -29,13 +29,10 @@ button {
     margin-top: 20px;
 }
 
+/* Улучшенное оформление для задания 4 */
 .card {
-    flex: 1;
-    border: 1px solid #ccc;
-    padding: 20px;
-    border-radius: 8px;
-    background-color: #f9f9f9;
-    transition: transform 0.2s, box-shadow 0.2s, background-color 0.3s;
+    background-color: #f0f4f8; /* Нежно-голубой оттенок */
+    box-shadow: 0 2px 5px rgba(0,0,0,0.05); /* Легкая постоянная тень */
 }
 
 /* Эффект наведения на карточку */
